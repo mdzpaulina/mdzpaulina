@@ -22,7 +22,7 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Next.js, No
    <a href="mailto:mdzpaulina@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="www.paulinamendez.com" target="_blank">
+  <a href="https://www.paulinamendez.com" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vite&logoColor=white&text=Portfolio%20(WIP)" alt="Portfolio">
   </a>
 </p>
