@@ -28,13 +28,6 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Next.js, No
 </p>
 
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mdzpaulina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzpaulina&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
--------
 
 #### 💙 &nbsp;&nbsp;My passions
 
