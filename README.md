@@ -33,7 +33,6 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Next.js, No
 
 * Technology and software
 * Deep Reinforcement Learning (DRL) in AI
-* UI and UX
 * Art
 * Drinking coffee
 * Playing videogames
